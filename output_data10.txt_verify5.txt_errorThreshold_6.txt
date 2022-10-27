@@ -1,0 +1,14 @@
+CCACAACCAAACATGG -> Similar : 1, Total(in same Bucket) : 3 = Similarity Score : 0.3333333333333333
+GCAGTAGAATACAAGG -> Similar : 1, Total(in same Bucket) : 2 = Similarity Score : 0.5
+AATCCGGTTTAGCTTG -> Similar : 1, Total(in same Bucket) : 1 = Similarity Score : 1.0
+TTACCGAGGTAAACGA -> Similar : 1, Total(in same Bucket) : 1 = Similarity Score : 1.0
+-------------------------------------------------------------------
+Summary of Results for data10.txt and verify5.txt
+-------------------------------------------------------------------
+Total Number of Verify Sequences (bucket found): 4
+Total Number of Verify Sequences (bucket not found): 1
+Error Threshold : 6
+Total Similarity Score : 2.83 
+Quality Indicator (Max 1.00) : 0.71 
+Total Number of Similar : 4
+Total Number of Sequences (in same Bucket) : 7
